@@ -1,2 +1,1 @@
-# Hello there! 👋🏼
-Hi, I am qiy2019!
+# Solutions!!!
