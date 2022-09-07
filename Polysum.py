@@ -11,15 +11,12 @@ def polysum(n, s):
 
     Parameters
     ----------
-    n : TYPE
-        DESCRIPTION.
-    s : TYPE
-        DESCRIPTION.
+    n: number of sides
+    s: length of sides
 
     Returns
     -------
-    TYPE
-        DESCRIPTION.
+    float
 
     """
     
